@@ -26,29 +26,6 @@ I shoot photos and build small web projects. Most of my work starts as "huh, how
 > Where is the light at the end of the tunnel?  
 > Where ignorance is bliss, 'Tis folly to be wise
 
-### Quick facts
-
-- 📍 Based in Malaysia
-- 📷 Photography
-- 💻 Coding — small projects, built to learn
-- 🎵 Music — exploring j-pop
-- 🎮 Games — Minecraft only, unfortunately
-
-### Favourite things
-
-Stage smoke and bright spotlights, flowers with the sun behind them, rainy city reflections, Japanese music on repeat, and the exact moment a problem finally clicks.
-
----
-
-## What you'll find
-
-| Project | Description |
-|---|---|
-| [Portfolio site](https://pixelaxolotl.github.io) | Home base — links to everything |
-| [Gallery](https://pixelaxolotl.github.io/Gallery.html) | Photo album — the main event |
-| [Random Stuff](https://pixelaxolotl.github.io/RandomStuff.html) | A little quote generator for fun |
-| [About Me](https://pixelaxolotl.github.io/AboutMe.html) | The longer version |
-
 ---
 
 ## Now playing
@@ -57,13 +34,6 @@ Stage smoke and bright spotlights, flowers with the sun behind them, rainy city 
 
 ---
 
-## A random thought
-
-> "Be the pink axolotl in a grey pond." ✨
->
-> — from my quote generator
-
----
 
 ## GitHub stats
 
